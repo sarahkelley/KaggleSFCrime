@@ -1,1 +1,1 @@
-# KaggleSFCrime
+You need to separately download the train.csv file into your folder (and not add it to the repository, because it is too big. )
